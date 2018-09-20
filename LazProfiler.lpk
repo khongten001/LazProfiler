@@ -19,7 +19,7 @@
       </Other>
     </CompilerOptions>
     <Description Value="LazProfiler is an IDE addon for profiling your programs with one click."/>
-    <Version Minor="1" Release="2"/>
+    <Version Minor="1" Release="3"/>
     <Files Count="5">
       <Item1>
         <Filename Value="LazProfilerAddon.pas"/>
